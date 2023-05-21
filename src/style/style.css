@@ -46,7 +46,7 @@ justify-content: center;
 
 .content {
 padding: 50px 50px;
-margin-bottom: 50px;
+margin-bottom: 30px;
 }
 
 button {
@@ -139,6 +139,7 @@ margin-right: 10px;
 .flex {
 display: flex;
 justify-content: space-between;
+margin-top: 10px;
 }
 
 .paragraph {
@@ -155,7 +156,7 @@ box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Adjust the shadow values as desired
     border-radius: 1px;
 }
 .foot{
-    margin-top: 35px;
+    margin-top: 20px;
 }
 
 .icon-button {
